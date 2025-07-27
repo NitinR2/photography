@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photography-portfolio/static/css/main.44d1707f.css",
+    "main.js": "/photography-portfolio/static/js/main.a2b6c61f.js",
+    "static/media/photo_3.JPG": "/photography-portfolio/static/media/photo_3.a53399d56ce9d6b02d9b.JPG",
+    "static/media/photo_1.JPG": "/photography-portfolio/static/media/photo_1.d93f4d07bfd3f0ab70d1.JPG",
+    "static/media/photo_2.JPG": "/photography-portfolio/static/media/photo_2.f6593a003f247c359f58.JPG",
+    "index.html": "/photography-portfolio/index.html",
+    "main.44d1707f.css.map": "/photography-portfolio/static/css/main.44d1707f.css.map",
+    "main.a2b6c61f.js.map": "/photography-portfolio/static/js/main.a2b6c61f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d1707f.css",
+    "static/js/main.a2b6c61f.js"
+  ]
+}
